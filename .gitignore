@@ -3,3 +3,5 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
+bart_dialogsum/
+dialogsum_model/
